@@ -6,6 +6,8 @@
 > 
 > Follow me [@nokha_db](https://twitter.com/nokha_db) for technical updates.
 
+### Link to SQL commands 👉 [Click Here](https://www.sqltutorial.org)
+
 ## **<a id="content" style="text-decoration-style:none; cursor: pointer;">Content</a>**  
 
 
@@ -80,3 +82,6 @@
 More questions will be added soon...
 
 [⬆️ Back to Top](#content)
+
+
+

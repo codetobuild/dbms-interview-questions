@@ -83,5 +83,10 @@ More questions will be added soon...
 
 [⬆️ Back to Top](#content)
 
+### Checkout other interview questions
 
+👉 [Computer Network](https://github.com/codetobuild/computer-network-interview-questions)
 
+👉 [Operating System](https://github.com/codetobuild/operating-system-interview-questions)
+
+[⬆️ Back to Top](#content)
